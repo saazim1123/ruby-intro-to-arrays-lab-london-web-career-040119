@@ -1,2 +1,2 @@
-array = []
+instantiate_new_array = []
 return array
